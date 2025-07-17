@@ -42,12 +42,23 @@ A robust, end-to-end financial analytics solution that automates the ingestion, 
 
 ## 🖼️ Visuals
 
-### 📌 Dashboard Sample  
-![Dashboard Screenshot](Screenshots/dashboard1.png) 
-![Dashboard Screenshot](Screenshots/dashboard2.png) 
+### Kimball Data Model
+![Kimball Data Model](Screenshots/FACTSANDDIMENSIONS.jpg)
+
+###  BI Data Model
+![BI Data Model](Screenshots/BIdatamodel.jpeg)
 
 ### 🛠️ Architecture Diagram  
-![Architecture Diagram](Screenshots/architecture_diagram.png)
+![Architecture Diagram](Screenshots/architecture.jpg)
+
+### 📌 Dashboard Sample  
+![Dashboard Screenshot](Screenshots/dashboard1.png)
+
+
+![Dashboard Screenshot](Screenshots/dashboard2.png) 
+
+### Airflow DAGS
+![Airflow Dags](Screenshots/AirflowDashboard.png) 
 
 ---
 
