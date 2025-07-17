@@ -43,10 +43,11 @@ A robust, end-to-end financial analytics solution that automates the ingestion, 
 ## 🖼️ Visuals
 
 ### 📌 Dashboard Sample  
-![Dashboard Screenshot](images/dashboard_sample.png) 
+![Dashboard Screenshot](Screenshots/dashboard1.png) 
+![Dashboard Screenshot](Screenshots/dashboard2.png) 
 
 ### 🛠️ Architecture Diagram  
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](Screenshots/architecture_diagram.png)
 
 ---
 
