@@ -49,7 +49,7 @@ A robust, end-to-end financial analytics solution that automates the ingestion, 
 ![BI Data Model](Screenshots/BIdatamodel.jpeg)
 
 ### 🛠️ Architecture Diagram  
-![Architecture Diagram](Screenshots/architecture.jpg)
+![Architecture Diagram](Screenshots/architecture.png)
 
 ### 📌 Dashboard Sample  
 ![Dashboard Screenshot](Screenshots/dashboard1.png)
